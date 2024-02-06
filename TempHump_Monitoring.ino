@@ -5,9 +5,9 @@
 #define DHTPIN D4        // Pin tempat sensor DHT22 terhubung
 #define DHTTYPE DHT22    // Tipe sensor DHT22
 
-char auth[] = "mnBmj5aj0LEKUdghiHnG81HKlt1aDFMR";  // Token autentikasi Blynk
-char ssid[] = "Kosan bu nata";                     // Nama WiFi Anda
-char pass[] = "immodium";                           // Password WiFi Anda
+char auth[] = "";  // Token autentikasi Blynk
+char ssid[] = "";                     // Nama WiFi Anda
+char pass[] = "";                           // Password WiFi Anda
 
 #define BLYNK_TEMPLATE_ID "TMPLxyk260wi"
 #define BLYNK_TEMPLATE_NAME "Quickstart Template"
